@@ -307,7 +307,7 @@ export function SettingsOverlay({
             tabpad.app
           </a>
           {" · built by "}
-          <a href="https://x.com/tolibear_" target="_blank" rel="noreferrer">
+          <a href="https://x.com/tolimarchuk" target="_blank" rel="noreferrer">
             toli
           </a>
         </p>
